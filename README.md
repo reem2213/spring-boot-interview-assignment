@@ -2,18 +2,18 @@ setup spring boot project:
 install gradle  and add it to the system environment variables
 
 install 2 extensions :
-1)Spring Boot Extension Pack
-2)Java Extension Pack
+1.Spring Boot Extension Pack
+2.Java Extension Pack
 
 create project: Spring Initializr: Generate a Gradle Project
 lang: java
 type: gradle
 dependencies:
-1)Spring Web
-2)Spring Data MongoDB
-3)Spring Boot DevTools
-4)Validation
-5)Spring Security (Optional)
+1.Spring Web
+2.Spring Data MongoDB
+3.Spring Boot DevTools
+4.Validation
+5.Spring Security (Optional)
 
 
 annotations used in the project:
